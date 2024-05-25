@@ -4,7 +4,7 @@
 
 <br>
 
-## Développeuse web & application Junior
+## A passionate full stack developer Junior from France
 
 Actuellement en formation pour devenir Concepteur Développeur d'Applications, je suis à la recherche d’un stage à partir du 28 octobre 2024. 
 
