@@ -14,7 +14,7 @@ Je suis convaincue que mon expertise technique et mon enthousiasme apporteront u
 
 🔧 Organisée, rigoureuse et adaptable, je m’épanouis dans le travail en équipe et je suis habituée à m'intégrer rapidement dans de nouveaux projets.
 
-En dehors de ma carrière professionnelle, je nourris une grande passion pour le **dessin**, la **peinture** et les **expositions d'art**,  <br>
+En dehors de ma carrière professionnelle, je nourris une grande passion pour le **dessin**, la **peinture** et les **expositions d'art**,
 qui enrichissent ma créativité. **La musique** et **les voyages** sont aussi des sources d'inspiration et d'ouverture d'esprit qui m’accompagnent au quotidien.
 
 <br>
