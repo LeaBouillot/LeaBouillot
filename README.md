@@ -1,4 +1,3 @@
-<img width="937" alt="Capture d’écran 2025-02-27 à 14 06 18" src="https://github.com/user-attachments/assets/174c921d-f3be-44cc-bb57-2fc8f7c48129" />
 ## Hi 👋, I'm Léa Bouillot  [Linkedin](https://www.linkedin.com/in/léa-bouillot-0430b2253/)
 
 # 🚀 **Concepteur Développeur d'Applications | Passionnée par l'innovation et la création numérique** 🚀
@@ -24,6 +23,10 @@ Je suis convaincue que mon expertise technique et mon enthousiasme apporteront u
 ### Formation
 - **Titre Profesionelle Concepteur Développeur d'Applications**
 - **Titre RNCP Graphiste & Web Designer**
+
+### Skills
+
+- <img width="937" alt="Capture d’écran 2025-02-27 à 14 06 18" src="https://github.com/user-attachments/assets/174c921d-f3be-44cc-bb57-2fc8f7c48129" />
 
 <br>
 
