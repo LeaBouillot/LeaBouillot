@@ -26,9 +26,8 @@ Je suis convaincue que mon expertise technique et mon enthousiasme apporteront u
 
 ### Skills
 
-- <img width="937" alt="Capture d’écran 2025-02-27 à 14 06 18" src="https://github.com/user-attachments/assets/174c921d-f3be-44cc-bb57-2fc8f7c48129" />
+<img width="925" alt="Capture d’écran 2025-02-27 à 14 09 28" src="https://github.com/user-attachments/assets/523a336c-1f3b-43b9-91e5-08243edffeef" />
 
-<br>
 
 ## 📚 Contact
 
