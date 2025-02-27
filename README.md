@@ -20,10 +20,9 @@ Je suis convaincue que mon expertise technique et mon enthousiasme apporteront u
 
 <br>
 
-## Formation
-
-Titre Profesionelle Concepteur Développeur d'Applications
-Titre RNCP Graphiste & Web Designer
+### Formation
+- **Titre Profesionelle Concepteur Développeur d'Applications**
+- **Titre RNCP Graphiste & Web Designer**
 
 <br>
 
