@@ -14,17 +14,14 @@ Je suis convaincue que mon expertise technique et mon enthousiasme apporteront u
 
 🔧 Organisée, rigoureuse et adaptable, je m’épanouis dans le travail en équipe et je suis habituée à m'intégrer rapidement dans de nouveaux projets.
 
-En dehors de ma carrière professionnelle, je nourris une grande passion pour le **dessin**, la **peinture** et les **expositions d'art**,
-qui enrichissent ma créativité. **La musique** et **les voyages** sont aussi des sources d'inspiration et d'ouverture d'esprit qui m’accompagnent au quotidien.
-
 <br>
 
 ## Formation & Skills
 
-En cours: TP Concepteur Développeur d'Applications de niveau 6
+Titre Profesionelle Concepteur Développeur d'Applications de niveau 6
 - Compétence : JavaScript · React · Node.js · PHP · SQL · Framework Symfony
 
-Titre Profesionelle RNCP Graphiste & Web Designer
+Titre RNCP Graphiste & Web Designer
 - Figma, Adobe Creative Suite
 - Design d’interface utilisateur
 - WordPress Developer
