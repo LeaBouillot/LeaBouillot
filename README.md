@@ -14,7 +14,7 @@ Je suis convaincue que mon expertise technique et mon enthousiasme apporteront u
 
 🔧 Organisée, rigoureuse et adaptable, je m’épanouis dans le travail en équipe et je suis habituée à m'intégrer rapidement dans de nouveaux projets.
 
-### 🎨 Mes passions :
+#### 🎨 Mes passions :
 - **Dessin**, **peinture** et **expositions d'art**
 - **Musique** et **voyages**, qui nourrissent ma créativité et mon ouverture d'esprit.
 
