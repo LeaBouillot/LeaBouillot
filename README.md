@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Léa Bouillot  [Linkedin](https://www.linkedin.com/in/léa-bouillot-0430b2253/)
 
-# 🚀 **Concepteur Développeur d'Applications | Passionnée par l'innovation et la création numérique** 🚀
+## 🚀 **Concepteur Développeur d'Applications | Passionnée par l'innovation et la création numérique** 🚀
 
 <br>
 
