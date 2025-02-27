@@ -4,11 +4,11 @@
 
 <br>
 
-Compétences en **JavaScript**, **React**, **Node.js**, **PHP**, **SQL**, et **Symfony**.  
+### Compétences en **JavaScript**, **React**, **Node.js**, **PHP**, **SQL**, et **Symfony**.  
 Mon expertise en développement est complétée par un titre professionnel de **Web Designer**, <br>
 me permettant d'apporter une approche créative et visuelle au développement d'applications.
 
-✨  **Motivée**, **curieuse**, et **organisée**, je suis impatiente de contribuer à un environnement dynamique  <br>
+### ✨  **Motivée**, **curieuse**, et **organisée**, je suis impatiente de contribuer à un environnement dynamique  <br>
 où je pourrai mettre en œuvre mes connaissances tout en continuant à apprendre et évoluer.  <br>
 Je suis convaincue que mon expertise technique et mon enthousiasme apporteront une réelle valeur ajoutée à votre équipe.
 
@@ -20,7 +20,7 @@ Je suis convaincue que mon expertise technique et mon enthousiasme apporteront u
 
 <br>
 
-## Formation & Skills
+## Formation
 
 Titre Profesionelle Concepteur Développeur d'Applications
 Titre RNCP Graphiste & Web Designer
