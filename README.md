@@ -5,7 +5,7 @@
 <br>
 
 ### Compétences en **JavaScript**, **React**, **Node.js**, **PHP**, **SQL**, et **Symfony**.  
-Mon expertise en développement est complétée par un titre professionnel de **Web Designer**, <br>
+Mon expertise en développement est complétée par un titre RNCP de **Web Designer**, <br>
 me permettant d'apporter une approche créative et visuelle au développement d'applications.
 
 <br>
