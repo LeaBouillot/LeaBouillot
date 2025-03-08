@@ -1,4 +1,4 @@
-## Hi 👋, I'm Léa Bouillot   ✨ Cliquez pour voir [My Portfolio](https://portfoliodev-delta.vercel.app/) et  [Linkedin](https://www.linkedin.com/in/léa-bouillot-0430b2253/)
+## Hi 👋, I'm Léa Bouillot   ✨ Cliquez pour voir [My Portfolio](https://portfoliodev-delta.vercel.app/) et  [CV]([https://www.linkedin.com/in/léa-bouillot-0430b2253/](https://portfoliodev-delta.vercel.app/assets/cv-CChNxChZ.pdf))
 
 ## 🚀 **Concepteur Développeur d'Applications | Passionnée par l'innovation et la création numérique** 🚀
 
